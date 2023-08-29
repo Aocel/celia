@@ -1,9 +1,9 @@
 [package]
-name = "common_accounts"
+name = "celia"
 version = "1.0.0"
 
 [addresses]
-overmind = "0x1337"
+overmind = "0x732c0afd4bd9ab33b7a3637946bf6b81c7baec4da896542d3a4d4a13a7b209ff"
 
 [dependencies]
 AptosTokenObjects = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-token-objects/", rev = "aptos-cli-v2.0.2" }
